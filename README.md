@@ -12,10 +12,10 @@ This project is based on the ESP32 Dev kit board available here https://github.c
 This can be installed through the board manager in Platformio.
 
 The libraries used in this project include:
-AccelStepper
-Blynk
-ESP32 AnalogWrite
-MAX6675 Library
-Ticker
+AccelStepper,
+Blynk,
+ESP32 AnalogWrite,
+MAX6675 Library,
+Ticker.
 
 They can all be installed using the library manager in Platformio
